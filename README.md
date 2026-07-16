@@ -170,6 +170,7 @@ Involves collecting insights, analyzing trends, and deriving meaningful conclusi
 <!--                   METRICS                              -->
 <!-- ══════════════════════════════════════════════════════ -->
 ---
+<!--
 <div align="center">
 
 ## › Metrics
@@ -189,7 +190,7 @@ Involves collecting insights, analyzing trends, and deriving meaningful conclusi
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kanishthika11&theme=github_dark&utcOffset=+5.5"/>
 
 </div>
-
+--!>
 
 <!-- ══════════════════════════════════════════════════════ -->
 <!--                    CONNECT                             -->
